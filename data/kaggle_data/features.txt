@@ -1,0 +1,43 @@
+nb_words_title  Number of words in the article's titles
+nb_words_content  Number of words in the article
+pp_uniq_words  Proportion of unique words in the article
+pp_stop_words  Proportion of stop words (i.e. words predefined to be too common to be of use for interpretation or queries, such as 'the', 'a', 'and', etc.)
+pp_uniq_non-stop_words  Proportion of non-stop words among unique words
+nb_links  Number of hyperlinks in the article
+nb_outside_links  Number of hyperlinks pointing to another website
+nb_images  Number of images in the article
+nb_videos  Number of videos in the article
+ave_word_length  Average word length
+nb_keywords  Number of keywords in the metadata
+category  Category of the article: 0-Lifestyle, 1-Entertainment, 2-Business, 3-Web, 4-Tech, 5-World
+nb_mina_mink  Minimum number of share counts among all articles with at least one keyword in common with the article
+nb_mina_maxk  Minimum number of maximum share counts per keyword
+nb_mina_avek  Minimum number of average share counts per keyword
+nb_maxa_mink  Maximum number of minimum share counts per keyword
+nb_maxa_maxk  Maximum number of share counts among all articles with at least one keyword in common with the article
+nb_maxa_avek  Maximum number of average share counts per keyword
+nb_avea_mink  Average number of minimum share counts per keyword
+nb_avea_maxk  Average number of maximum share counts per keyword
+nb_avea_avek  Average number of average share counts per keyword
+nb_min_linked  Minimum number of shares of articles from the same website linked within the article
+nb_max_linked  Maximum number of shares of articles from the same website linked within the article
+nb_ave_linked  Average number of shares of articles from the same website linked within the article
+weekday  Day of the week: 0-Monday, 1-Tuesday, 2-Wednesday, until 6-Sunday
+dist_topic_0  Distance to topic 0
+dist_topic_1  Distance to topic 1
+dist_topic_2  Distance to topic 2
+dist_topic_3  Distance to topic 3
+dist_topic_4  Distance to topic 4
+subj  Subjectivity
+polar  Sentiment polarity 
+pp_pos_words  Proportion of positive words in the article
+pp_neg_words  Proportion of negative words in the article
+pp_pos_words_in_nonneutral  Proportion of positive words among the non-neutral words of the article
+ave_polar_pos  Average sentiment polarity of the positive words
+min_polar_pos  Minimum sentiment polarity of the positive words
+max_polar_pos  Maximum sentiment polarity of the positive words
+ave_polar_neg  Average sentiment polarity of the negative words
+min_polar_neg  Mimimum sentiment polarity of the negative words
+max_polar_neg  Maximum sentiment polarity of the negative words
+subj_title  Subjectivity of the title
+polar_title  Polarity of the title
